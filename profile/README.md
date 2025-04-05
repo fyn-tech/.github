@@ -7,7 +7,7 @@ Note: This project is still in the very early stages of development, so it's rou
 The objective of the project is to build, from the ground up, a cloud-based CFD solver. The front end will be browser-based; you can view a very simple 'mock up' [here](https://fyn-tech.com/). 
 Using the web browser, a user will be able to set up a CFD simulation and then run it either locally or in the cloud, with the compute resources and job management in the web interface.
 
-The name Fyn-Tech is short for Fynbos Technology, where Fynbos is a unique biome in the southwestern region of South Africa.
+The name Fyn-Tech is short for Fynbos Technology, where [Fynbos](https://en.wikipedia.org/wiki/Fynbos) is a unique biome in the southwestern region of South Africa.
 
 ## Organisation
 
