@@ -12,10 +12,12 @@ The name Fyn-Tech is short for Fynbos Technology, where [Fynbos](https://en.wiki
 ## Organisation
 
 The project is split into several different repositories, with the CFD solver code not yet made public. 
+- [fyn-env](https://github.com/fyn-tech/fyn-env) The Fyn-Tech repository for managing and coordinating deployments across all other repos.
+- [fyn-front](https://github.com/fyn-tech/fyn-front) The front-end repository, Rust conversation under consideration.
 - [fyn-front](https://github.com/fyn-tech/fyn-front) The front-end repository, Rust conversation under consideration.
 - [fyn-api](https://github.com/fyn-tech/fyn-api) The back-end AWS hosted Django backend.
 - [fyn-runner](https://github.com/fyn-tech/fyn-runner) The runner for CFD simulation job execution on remote resources.
-- [fyn_buff](https://github.com/fyn-tech/fyn_buf) Protobuf repository for consistent communication accoss applications.
+- [fyn-schema](https://github.com/fyn-tech/fyn-schema) Protobuf repository for consistent communication accoss applications.
 - [Disa](https://github.com/bevanwsjones/Disa), ultimately the 'native' linear algebra function.
 
 ## Current Focus
