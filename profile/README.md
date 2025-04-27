@@ -4,7 +4,7 @@ Note: This project is still in the very early stages of development, so it's rou
 
 ## Background
 
-The objective of the project is to build, from the ground up, a cloud-based CFD solver. The front end will be browser-based; you can view a very simple 'mock up' [here](https://fyn-tech.com/). 
+The objective of the project is to build, from the ground up, a cloud-based CFD solver. The front end will be browser-based; you can view a very simple 'mock-up' [here](https://fyn-tech.com/). 
 Using the web browser, a user will be able to set up a CFD simulation and then run it either locally or in the cloud, with the compute resources and job management in the web interface.
 
 The name Fyn-Tech is short for Fynbos Technology, where [Fynbos](https://en.wikipedia.org/wiki/Fynbos) is a unique biome in the southwestern region of South Africa.
@@ -14,10 +14,9 @@ The name Fyn-Tech is short for Fynbos Technology, where [Fynbos](https://en.wiki
 The project is split into several different repositories, with the CFD solver code not yet made public. 
 - [fyn-env](https://github.com/fyn-tech/fyn-env) The Fyn-Tech repository for managing and coordinating deployments across all other repos.
 - [fyn-front](https://github.com/fyn-tech/fyn-front) The front-end repository, Rust conversation under consideration.
-- [fyn-front](https://github.com/fyn-tech/fyn-front) The front-end repository, Rust conversation under consideration.
 - [fyn-api](https://github.com/fyn-tech/fyn-api) The back-end AWS hosted Django backend.
 - [fyn-runner](https://github.com/fyn-tech/fyn-runner) The runner for CFD simulation job execution on remote resources.
-- [fyn-schema](https://github.com/fyn-tech/fyn-schema) Protobuf repository for consistent communication accoss applications.
+- [fyn-schema](https://github.com/fyn-tech/fyn-schema) Protobuf repository for consistent application communication.
 - [Disa](https://github.com/bevanwsjones/Disa), ultimately the 'native' linear algebra function.
 
 ## Current Focus
