@@ -16,7 +16,9 @@ The project is split into several different repositories, with the CFD solver co
 - [fyn-front](https://github.com/fyn-tech/fyn-front) The front-end repository, Rust conversation under consideration.
 - [fyn-api](https://github.com/fyn-tech/fyn-api) The back-end AWS hosted Django backend.
 - [fyn-runner](https://github.com/fyn-tech/fyn-runner) The runner for CFD simulation job execution on remote resources.
+- [strelitzia](https://github.com/fyn-tech/strelitzia) The core geometry and multi-physics kernel.
 - [Disa](https://github.com/bevanwsjones/Disa), ultimately the 'native' linear algebra function.
+- [fyn-edu](https://github.com/fyn-tech/fyn-edu) Educational content for building familiarity with the Fyn-Tech development environment. 
 
 ## Current Focus
 
